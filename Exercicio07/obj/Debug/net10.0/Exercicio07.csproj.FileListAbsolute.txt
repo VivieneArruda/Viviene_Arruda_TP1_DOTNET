@@ -1,0 +1,15 @@
+C:\Users\vivie\OneDrive\Área de Trabalho\C#INFNET\EntradaSaidaCondicionais\Exercicio01\Exercicio07\obj\Debug\net10.0\Exercicio07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivie\OneDrive\Área de Trabalho\C#INFNET\EntradaSaidaCondicionais\Exercicio01\Exercicio07\obj\Debug\net10.0\Exercicio07.AssemblyInfoInputs.cache
+C:\Users\vivie\OneDrive\Área de Trabalho\C#INFNET\EntradaSaidaCondicionais\Exercicio01\Exercicio07\obj\Debug\net10.0\Exercicio07.AssemblyInfo.cs
+C:\Users\vivie\OneDrive\Área de Trabalho\C#INFNET\EntradaSaidaCondicionais\Exercicio01\Exercicio07\obj\Debug\net10.0\Exercicio07.csproj.CoreCompileInputs.cache
+C:\Users\vivie\OneDrive\Área de Trabalho\C#INFNET\EntradaSaidaCondicionais\Exercicio01\Exercicio07\bin\Debug\net10.0\Exercicio07.exe
+C:\Users\vivie\OneDrive\Área de Trabalho\C#INFNET\EntradaSaidaCondicionais\Exercicio01\Exercicio07\bin\Debug\net10.0\Exercicio07.deps.json
+C:\Users\vivie\OneDrive\Área de Trabalho\C#INFNET\EntradaSaidaCondicionais\Exercicio01\Exercicio07\bin\Debug\net10.0\Exercicio07.runtimeconfig.json
+C:\Users\vivie\OneDrive\Área de Trabalho\C#INFNET\EntradaSaidaCondicionais\Exercicio01\Exercicio07\bin\Debug\net10.0\Exercicio07.dll
+C:\Users\vivie\OneDrive\Área de Trabalho\C#INFNET\EntradaSaidaCondicionais\Exercicio01\Exercicio07\bin\Debug\net10.0\Exercicio07.pdb
+C:\Users\vivie\OneDrive\Área de Trabalho\C#INFNET\EntradaSaidaCondicionais\Exercicio01\Exercicio07\obj\Debug\net10.0\Exercicio07.dll
+C:\Users\vivie\OneDrive\Área de Trabalho\C#INFNET\EntradaSaidaCondicionais\Exercicio01\Exercicio07\obj\Debug\net10.0\refint\Exercicio07.dll
+C:\Users\vivie\OneDrive\Área de Trabalho\C#INFNET\EntradaSaidaCondicionais\Exercicio01\Exercicio07\obj\Debug\net10.0\Exercicio07.pdb
+C:\Users\vivie\OneDrive\Área de Trabalho\C#INFNET\EntradaSaidaCondicionais\Exercicio01\Exercicio07\obj\Debug\net10.0\Exercicio07.genruntimeconfig.cache
+C:\Users\vivie\OneDrive\Área de Trabalho\C#INFNET\EntradaSaidaCondicionais\Exercicio01\Exercicio07\obj\Debug\net10.0\ref\Exercicio07.dll
+C:\Users\vivie\OneDrive\Área de Trabalho\C#INFNET\EntradaSaidaCondicionais\Exercicio01\Exercicio07\obj\Debug\net10.0\Exercici.F52138F7.Up2Date
